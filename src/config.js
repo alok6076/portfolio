@@ -1,7 +1,7 @@
 const contactLinks = {
     email: "alok6358@gmail.com",
     linkedin: "",
-    github: "",
+    github: "https://github.com/alok6076",
 };
 
 const personalDetails = {
@@ -11,7 +11,7 @@ const personalDetails = {
     },
     title: "Software Developer",
     about: {
-        para1: "Hi, I am Alok Kumar, a Computer Science undergraduate at Kalinga Institute of Industrial Technology,Bhubaneswar My interests include Software Development, Problem Solving and Data Structures & Algorithms. I have a good grip on my Computer Science fundamentals. I believe in writing clean and scalable code. I am skilled in C/C++, Java (Basics), Javascript, Vue, Vuex, Nuxtjs, React, Redux, Nextjs, Nodejs, Expressjs, MongoDB with Mongoose and SQL. I have worked on several projects which are available on my GitHub account",
+        para1: "Hi, I am Alok Kumar, a Computer Science undergraduate at Kalinga Institute of Industrial Technology,Bhubaneswar My interests include Software Development, Problem Solving and Data Structures & Algorithms. I have a good grip on my Computer Science fundamentals. I believe in writing clean and scalable code. I am skilled in C/C++, Java (Basics), Javascript, Vue, Vuex, Nuxtjs, React, Redux, Nextjs, Nodejs, Expressjs, MongoDB with Mongoose and SQL.",
        // para2: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedconsectetur adipiscing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
 };

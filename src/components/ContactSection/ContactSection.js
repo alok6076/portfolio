@@ -159,7 +159,7 @@ function ContactSection() {
                         <p className={classes.link} onClick={() => openTab(contactLinks.github)}>{contactLinks.github}</p>
                     </div>
                 </div>
-                <p className={classes.templateBy}>• Portfolio Template by <span><a className={classes.developerLink} href="https://github.com/ayush461" target="_blank" rel="noopener noreferrer">Ayush Agarwal</a></span> •</p>
+                <p className={classes.templateBy}>• Portfolio Template by <span><a className={classes.developerLink} href="https://github.com/alok6076" target="_blank" rel="noopener noreferrer">Alok Kumar</a></span> •</p>
                 <Snackbar
                     ContentProps={{
                         classes: {
