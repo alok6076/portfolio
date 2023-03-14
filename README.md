@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="https://github.com/ayush461">
+    <a href="https://github.com/alok6076">
         <img src="./public/favicon.ico" alt="Logo" width="60" height="60" />
     </a>
     <br/>
@@ -7,7 +7,7 @@
 </h2>
 <br/>
 
-Portfolio Template by [Ayush Agarwal](https://determined-lalande-446268.netlify.app/) developed using Reactjs with easy setup.
+Portfolio Template by [Alok Kumar](https://determined-lalande-446268.netlify.app/) developed using Reactjs with easy setup.
 <br />
 Just modify your relevant details in `config.js` file, add your resume and projects,
 your Portfolio Website is good to go!
