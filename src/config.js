@@ -22,7 +22,7 @@ const projectDetails = [
     {
         title: "BIRDS SPECIES-IMAGE CLASSIFICATION",
         description: "To identify the species to which a bird belongs to among the 400 different species that our model was trained on and classify it accordingly",
-        image: "home.png",
+        image: "p1.png",
         hostedLink: "",
         githubLink: "https://github.com/alok6076",
         techStack: [ "Machine Learning", "Notebook", "AI", "Python TENSORFLOW PANDAS"," NUMPY MATPLOTLIB"," OpenCV"],
@@ -30,7 +30,7 @@ const projectDetails = [
     {
         title: "KNEE OSTEOARTHRITIS DETECTION AND SEVERITY PREDICTION",
         description: "Osteoarthritis is the result -and the observable status -of inflammatory processes in a joint leading to functional and anatomical impairments Tech used ML AI",
-        image: "media-browser.png",
+        image: "p2.png",
         hostedLink: "",
         githubLink: "https://github.com/alok6076",
         techStack: ["Machine Learning", "Notebook", "AI", "Python"],
@@ -38,7 +38,7 @@ const projectDetails = [
     {
         title: "AI MUSIC GENERATOR",
         description: "A model capable of generating notes and chords after learning from the dataset of songs we provide to a recurrent neural network and create songs",
-        image: "snakes.png",
+        image: "p3.png",
         hostedLink: "",
         githubLink: "https://github.com/alok6076",
         techStack: ["Machine Learning", "Notebook", "AI", "Python"],
